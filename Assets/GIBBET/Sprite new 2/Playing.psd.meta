@@ -1,0 +1,2338 @@
+fileFormatVersion: 2
+guid: fef6067e4cf7bef4b83fa86a0d604604
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Girl 01 - Head 1
+    21300002: Girl 01 - Head 2
+    21300004: Girl 01 - Head 3
+    21300006: Girl 01 - Head 4
+    21300008: Girl 01 - HandUper.R
+    21300010: Girl 01 - BodyUpper
+    21300012: Girl 01 - BodyLower
+    21300014: Girl 01 - Foot
+    21300016: Girl 01 - HandUper.L
+    21300018: Girl 01 - HandLowe.R
+    21300020: Girl 01 - HandLowe.L
+    21300022: Bow I
+    21300024: Bow
+    21300026: Arrow
+    21300028: Rope
+    21300030: Bow II
+    21300032: Bow III
+    21300034: Bow IV
+    21300036: Playing_4
+    21300038: Playing_5
+    21300040: Playing_6
+    21300042: Arrow II
+    21300044: Health Bar FG
+    21300046: Health Bar BG
+    21300048: Girl 01
+    21300050: Playing_7
+    21300052: Girl 04
+    21300054: Girl 03
+    21300056: Girl 05
+    21300058: Girl 02
+    21300060: Ring
+    21300062: Wing R
+    21300064: Wing L
+    21300066: Arrow's direction
+    21300068: Girl 02 - Head 1
+    21300070: Girl 02 - Head 2
+    21300072: Girl 02 - Head 3
+    21300074: Girl 02 - Head 4
+    21300076: Girl 02 - HandUper.R
+    21300078: Girl 02 - BodyUpper
+    21300080: Girl 02 - BodyLower
+    21300082: Girl 02 - Foot
+    21300084: Girl 02 - HandUper.L
+    21300086: Girl 02 - HandLowe.R
+    21300088: Girl 02 - HandLowe.L
+    21300090: Girl 03 - Head 1
+    21300092: Girl 03 - Head 2
+    21300094: Girl 03 - Head 3
+    21300096: Girl 03 - Head 4
+    21300098: Girl 03 - HandUper.R
+    21300100: Girl 03 - BodyUpper
+    21300102: Girl 03 - BodyLower
+    21300104: Girl 03 - Foot
+    21300106: Girl 03 - HandUper.L
+    21300108: Girl 03 - HandLowe.R
+    21300110: Girl 03 - HandLowe.L
+    21300112: Girl 04 - Head 1
+    21300114: Girl 04 - Head 2
+    21300116: Girl 04 - Head 3
+    21300118: Girl 04 - Head 4
+    21300120: Girl 04 - HandUper.R
+    21300122: Girl 04 - BodyUpper
+    21300124: Girl 04 - BodyLower
+    21300126: Girl 04 - Foot
+    21300128: Girl 04 - HandUper.L
+    21300130: Girl 04 - HandLowe.R
+    21300132: Girl 04 - HandLowe.L
+    21300134: Girl 05 - Head 1
+    21300136: Girl 05 - Head 2
+    21300138: Girl 05 - Head 3
+    21300140: Girl 05 - Head 4
+    21300142: Girl 05 - HandUper.R
+    21300144: Girl 05 - BodyUpper
+    21300146: Girl 05 - BodyLower
+    21300148: Girl 05 - Foot
+    21300150: Girl 05 - HandUper.L
+    21300152: Girl 05 - HandLowe.R
+    21300154: Girl 05 - HandLowe.L
+    21300156: Cot doc
+    21300158: Cot ngang
+    21300160: Cot cheo
+    21300162: Cot nut
+    21300164: Cot rope
+    21300166: Box
+    21300168: Fire Arrow I
+    21300170: Sheep - eye.R
+    21300172: Sheep - eye.L
+    21300174: Sheep - body
+    21300176: Sheep - head
+    21300178: Sheep - foot 1
+    21300180: Sheep - foot 2
+    21300182: Sheep - foot 3
+    21300184: Sheep - foot 4
+    21300186: Xoay 1
+    21300188: Xoay 2
+    21300190: Xoay Des
+    21300192: Coi Xoay Gio - Swing
+    21300194: Coi Xoay Gio - Body
+    21300196: Coi Xoay Gio - Body Upper
+    21300198: Coi Xoay Gio - Body Lower
+    21300200: Fire 2 Arrow
+    21300202: Ground Block
+    21300204: Cot ngang 2
+    21300206: Bird Body
+    21300208: Bird Wing R
+    21300210: Bird Wing L
+    21300212: Bow V
+    21300214: Playing_1
+    21300216: Dialog
+    21300218: Playing_2
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Girl 01 - Head 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 974
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125720108178b4246a4323cf40a08638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01 - Head 2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 974
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca3ade09899cf949affe0307d108ae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01 - Head 3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 974
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6811230b6d3b5b4693a4888476af183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01 - Head 4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 974
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f606f4c82e37d0a41ae32ab724db713f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01 - HandUper.R
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 948
+        width: 11
+        height: 25
+      alignment: 9
+      pivot: {x: 0.8531742, y: 0.91817385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e1ee4fa3dade849a1b426c58ac7385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01 - BodyUpper
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 918
+        width: 33
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48181835, y: 0.664445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db29b5482b755442b1c5eb1fb985bb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01 - BodyLower
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 918
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4970591, y: 0.90000075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c69179ca02c9bf4f861ea1f80208d28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01 - Foot
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 915
+        width: 33
+        height: 56
+      alignment: 9
+      pivot: {x: 0.54848504, y: 0.9375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f942b696391c69646a066cb53c9ed62a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01 - HandUper.L
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 946
+        width: 11
+        height: 25
+      alignment: 9
+      pivot: {x: 0.16363664, y: 0.9480005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e6965ceb9e064ca63c76566dad831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01 - HandLowe.R
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 911
+        width: 12
+        height: 36
+      alignment: 9
+      pivot: {x: 0.8000004, y: 0.9583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295661fa6bdd51d408af0a8cb9c50121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01 - HandLowe.L
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 909
+        width: 11
+        height: 36
+      alignment: 9
+      pivot: {x: 0.2000011, y: 0.96111214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92eeff39cb207f408fc3846bda02692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow I
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 44
+        height: 134
+      alignment: 9
+      pivot: {x: 0.63, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecf47f03c1c34d4f8a8c30c7c91bbd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow II
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 32
+        height: 134
+      alignment: 9
+      pivot: {x: 0.8718767, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0363c7a06a614e14fbf21f73ab3b9fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow III
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 32
+        height: 134
+      alignment: 9
+      pivot: {x: 0.66, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f124eaa3980b5e42ab4586c8b9dd53b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow IV
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 44
+        height: 134
+      alignment: 9
+      pivot: {x: 0.89, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5cb37194d98dd4387e58b5c6ece736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playing_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 86
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801d9bf8921d39041985684b1b0bf858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playing_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 86
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9b46b4b775b1b4990799592d7e092c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playing_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 102
+        width: 86
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f9b8b0c342aa447973d17114c0a48c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow II
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 86
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5464653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a36fd740cb32eb429357bb47ce5f06b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1004
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04da5189219804246b941d488c12f9f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Bar FG
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1015
+        width: 59
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2907cfd60285eb84cb6242e607777c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Bar BG
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1006
+        width: 59
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6128cc66f7d134397cf01139161fcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 01
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 866
+        width: 42
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d366812356c6e20498060ec5f0fb5ff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playing_7
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 869
+        width: 44
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c752c75c5de434c48bcd675297b69132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 868
+        width: 44
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532847d7e128d824889f08c179f78fa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 870
+        width: 42
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a83caffe647ac146af4d08f596ab3d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 868
+        width: 47
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff89185f31914b4429987a94ebc67bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 865
+        width: 45
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc42d5c91bac404f8ce464109fb0925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1014
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13945c61a841b84ea9f3ed2b15c3748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wing R
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 978
+        width: 38
+        height: 25
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac578d3743a9244c94a9292424774d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wing L
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 950
+        width: 38
+        height: 25
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c293fc95d7d2fb47bdf894c4642bd20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow's direction
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 167
+        height: 36
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7b49640b6ac0d4bae54aca85e55c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - Head 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 859
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11051f9180db26b468678d72760e1561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - Head 2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 859
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76492a87ab53c54409cb97f81f16d982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - Head 3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 859
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598db61d72cd3d348b8b4b0e0e123108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - Head 4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 859
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4744553e765f6a14b846f3268cb2fe2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - HandUper.R
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 834
+        width: 10
+        height: 23
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada673d03712db440be251350109e03b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - BodyUpper
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 806
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.471599, y: 0.75604665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99dfc75086c6a14a83920266b5ddd48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - BodyLower
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 806
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5103841, y: 0.8848638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132c6043b35773d47a87e1d3eb7a2559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - Foot
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 797
+        width: 29
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4778019, y: 0.92178136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9dd8ce9c805e748b35ca06bd17ca1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - HandUper.L
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 835
+        width: 10
+        height: 22
+      alignment: 9
+      pivot: {x: 0.18727264, y: 0.8893599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaba3eb8a51c704dba185b0b56ca4b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - HandLowe.R
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 794
+        width: 12
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7008672, y: 0.9429384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1de3116369289a45b18d9e0043f0d86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 02 - HandLowe.L
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 795
+        width: 13
+        height: 39
+      alignment: 9
+      pivot: {x: 0.12577468, y: 0.9573834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82879d1e97b9f184abc468f94a1cf784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - Head 1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 743
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d047be0f4d31474fb6384c41325bf19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - Head 2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 743
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7186004cad63cf44ab814ddb31e986ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - Head 3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 743
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0672d69b004d99441a5b9edd0682dbbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - Head 4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 743
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff334fe307b47d48afca5a76ec39182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - HandUper.R
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 717
+        width: 10
+        height: 22
+      alignment: 9
+      pivot: {x: 0.7988288, y: 0.9204268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c6b220f7f9b0641942b0200b534139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - BodyUpper
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 698
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.47844002, y: 0.74294823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f947ac29e838fc44da42325ec0b5d1d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - BodyLower
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 689
+        width: 37
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49230793, y: 0.88989866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bd9c2d8aa5b7a418f832fce4e47c83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - Foot
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 685
+        width: 34
+        height: 52
+      alignment: 9
+      pivot: {x: 0.51255596, y: 0.92689633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5a8a4831b0bbd4788571cb4272122e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - HandUper.L
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 715
+        width: 10
+        height: 22
+      alignment: 9
+      pivot: {x: 0.24386139, y: 0.8816195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d99026256ef334ca9fc55d8905a6de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - HandLowe.R
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 679
+        width: 11
+        height: 36
+      alignment: 9
+      pivot: {x: 0.71991575, y: 0.9624702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3959cb92ee0dd574ba67521fc2f962b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 03 - HandLowe.L
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 676
+        width: 10
+        height: 34
+      alignment: 9
+      pivot: {x: 0.24386139, y: 0.9436376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68148ff859503e049ab145e2b481d151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - Head 1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 620
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d61469944b19a45afa1029b8033030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - Head 2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 620
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df209f0b615c4fe46aa2b4e2f7938a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - Head 3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 620
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293cd1489c3ae8f42b1b6c87db933a16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - Head 4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 621
+        width: 30
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4bb7d3f15bf3344b7e0649a54fb4dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - HandUper.R
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 594
+        width: 11
+        height: 23
+      alignment: 9
+      pivot: {x: 0.71048456, y: 0.9295124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852ff5b0dbb602d4f81fa97249e34a75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - BodyUpper
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 565
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5171511, y: 0.693842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d73e953a26e02b42abec63adba1a73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - BodyLower
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 561
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4565878, y: 0.9267482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612dabf83c7705f4a88ad53bdc8dd217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - Foot
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 549
+        width: 36
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5128634, y: 0.9508173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604840cd4def8d4ea6783c7ad3212df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - HandUper.L
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 591
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.20532227, y: 0.8999218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2dd9318b136cc40b2e6eb34b153759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - HandLowe.R
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 552
+        width: 15
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6852268, y: 0.9588953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e99edaeb63bf1048ab3bedc03a57cf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 04 - HandLowe.L
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 549
+        width: 15
+        height: 39
+      alignment: 9
+      pivot: {x: 0.22215983, y: 0.9393201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71b39df4d9ae924a9a6aa23082d0393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - Head 1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 496
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6a3d2fbee6c64448001c9772bf8b09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - Head 2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 496
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd9796afed3c194393ca5c587d120f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - Head 3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 496
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdaa4a37e3de0e49b1272f4deafc811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - Head 4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 496
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9e5a63b3e8da745ae000e6bb1958e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - HandUper.R
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 469
+        width: 10
+        height: 25
+      alignment: 9
+      pivot: {x: 0.78265727, y: 0.9381201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0485dbcbe5d4f478de4078dc188100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - BodyUpper
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 448
+        width: 35
+        height: 44
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.8131721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8784faacece8a4786ce192937940ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - BodyLower
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 448
+        width: 31
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48860168, y: 0.92960775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb095747a7fb19f4b9a2a355d5e8fbf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - Foot
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 433
+        width: 42
+        height: 59
+      alignment: 9
+      pivot: {x: 0.49579328, y: 0.94015604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7a1de2b0b60d24c89d9d67b20193d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - HandUper.L
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 466
+        width: 10
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2526718, y: 0.8917263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b6a12d99a2f8b499eef1bdc91fec32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - HandLowe.R
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 432
+        width: 12
+        height: 35
+      alignment: 9
+      pivot: {x: 0.72082597, y: 0.9441764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a326ab4c1edc13f44818b9b024d300ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl 05 - HandLowe.L
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 427
+        width: 13
+        height: 37
+      alignment: 9
+      pivot: {x: 0.17385395, y: 0.9392659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df773a28b811d8409be2c1cd13c376b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cot doc
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 750
+        width: 16
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593bea47f3dd9c24490bcf7f017b3461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cot ngang
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 985
+        width: 144
+        height: 13
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58feceb9611b25a4fa3e85e565f33709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cot cheo
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 912
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10cdcfbf35c4c943bd94e34c17b17bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cot nut
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 890
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3057cfa245ad17458be8a13bddde42f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cot rope
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 861
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35ab0dd18db16a46b5392aff6d9f891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 6
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7259bb8a83e1547865f521d56e7248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Arrow I
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 86
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a5f9c426dc98545bf361c6c7f1d407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep - eye.R
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 70
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2b3e55f4585244982aaa369de1420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep - eye.L
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 69
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690d867f74223dc4eb7f5c58b3a17edc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep - body
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 7
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c7d36031dbad6479f640b8c8000d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep - head
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 30
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.8120001, y: 0.28157938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3a258420141e64eb24c65168accbd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep - foot 1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3
+        width: 10
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45471495, y: 0.93808866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c675b36413549d44b24002b9d1ac89e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep - foot 2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4
+        width: 11
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.9416674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcfd3ee017ed294e8b64dbdff8be418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep - foot 3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3
+        width: 11
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.93333405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ab75bc33b395241a99264fcd7a5a92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep - foot 4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3
+        width: 11
+        height: 24
+      alignment: 9
+      pivot: {x: 0.39091074, y: 0.9500007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3a797323bbaf44581710921fc727cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xoay 1
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f405948fb83daa45815789dc2a478a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xoay 2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 4
+        width: 58
+        height: 59
+      alignment: 9
+      pivot: {x: 0.49549812, y: 0.5376161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fa00dd49f1f6b4091c272fb7b08add
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xoay Des
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 87
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e531133fdbcab3d4c9cd64ec232d68cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coi Xoay Gio - Swing
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 100
+        width: 56
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c8bcef09d334f489b548411474c863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coi Xoay Gio - Body Upper
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 187
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6adf207ec0acf45a391634974b7f07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coi Xoay Gio - Body Lower
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 99
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288e336478f5fe14ead7fb78e2ac0f5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire 2 Arrow
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 85
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75410f37c1b2d364f83e3ebc15a34405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Block
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 327
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b93c40590a38154aadbd3f88abf7853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cot ngang 2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1007
+        width: 167
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4200bc6a066059b4d8bc45672457877a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Body
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 13
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96fbd35ce98e2742aed55903f31a572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Wing R
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3
+        width: 16
+        height: 9
+      alignment: 9
+      pivot: {x: 0.8313904, y: 0.8230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe2d76a05963b2478c69b8528d7a4bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird Wing L
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4
+        width: 15
+        height: 8
+      alignment: 9
+      pivot: {x: 0.146521, y: 0.75655735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cdca41618d0c74c81dab60755e6511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow V
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 97
+        height: 148
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f9bcf34a735df40b00947010ff1047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playing_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 149
+        width: 114
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43e2c67a3bd1e047ae71f0847ffc59a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialog
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 84
+        width: 137
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e14aef56dbd0874eb7a57fedf30fb7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playing_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501c629d8eabe654f9e6669e5a130172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

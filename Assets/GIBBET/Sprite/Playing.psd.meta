@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 9b5beccff4c27c546aad97f4e53b1d94
+timeCreated: 1442816272
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Girl 01 - Head 1
+    21300002: Girl 01 - Head 2
+    21300004: Girl 01 - Head 3
+    21300006: Girl 01 - Head 4
+    21300008: Girl 01 - HandUper.R
+    21300010: Girl 01 - BodyUpper
+    21300012: Girl 01 - BodyLower
+    21300014: Girl 01 - Foot
+    21300016: Girl 01 - HandUper.L
+    21300018: Girl 01 - HandLowe.R
+    21300020: Girl 01 - HandLowe.L
+    21300022: Bow I
+    21300024: Bow
+    21300026: Arrow
+    21300028: Rope
+    21300030: Bow II
+    21300032: Bow III
+    21300034: Bow IV
+    21300036: Playing_4
+    21300038: Playing_5
+    21300040: Playing_6
+    21300042: Arrow II
+    21300044: Health Bar FG
+    21300046: Health Bar BG
+    21300048: Girl 01
+    21300050: Playing_7
+    21300052: Girl 04
+    21300054: Girl 03
+    21300056: Girl 05
+    21300058: Girl 02
+    21300060: Ring
+    21300062: Wing R
+    21300064: Wing L
+    21300066: Arrow's direction
+    21300068: Girl 02 - Head 1
+    21300070: Girl 02 - Head 2
+    21300072: Girl 02 - Head 3
+    21300074: Girl 02 - Head 4
+    21300076: Girl 02 - HandUper.R
+    21300078: Girl 02 - BodyUpper
+    21300080: Girl 02 - BodyLower
+    21300082: Girl 02 - Foot
+    21300084: Girl 02 - HandUper.L
+    21300086: Girl 02 - HandLowe.R
+    21300088: Girl 02 - HandLowe.L
+    21300090: Girl 03 - Head 1
+    21300092: Girl 03 - Head 2
+    21300094: Girl 03 - Head 3
+    21300096: Girl 03 - Head 4
+    21300098: Girl 03 - HandUper.R
+    21300100: Girl 03 - BodyUpper
+    21300102: Girl 03 - BodyLower
+    21300104: Girl 03 - Foot
+    21300106: Girl 03 - HandUper.L
+    21300108: Girl 03 - HandLowe.R
+    21300110: Girl 03 - HandLowe.L
+    21300112: Girl 04 - Head 1
+    21300114: Girl 04 - Head 2
+    21300116: Girl 04 - Head 3
+    21300118: Girl 04 - Head 4
+    21300120: Girl 04 - HandUper.R
+    21300122: Girl 04 - BodyUpper
+    21300124: Girl 04 - BodyLower
+    21300126: Girl 04 - Foot
+    21300128: Girl 04 - HandUper.L
+    21300130: Girl 04 - HandLowe.R
+    21300132: Girl 04 - HandLowe.L
+    21300134: Girl 05 - Head 1
+    21300136: Girl 05 - Head 2
+    21300138: Girl 05 - Head 3
+    21300140: Girl 05 - Head 4
+    21300142: Girl 05 - HandUper.R
+    21300144: Girl 05 - BodyUpper
+    21300146: Girl 05 - BodyLower
+    21300148: Girl 05 - Foot
+    21300150: Girl 05 - HandUper.L
+    21300152: Girl 05 - HandLowe.R
+    21300154: Girl 05 - HandLowe.L
+    21300156: Cot doc
+    21300158: Cot ngang
+    21300160: Cot cheo
+    21300162: Cot nut
+    21300164: Cot rope
+    21300166: Box
+    21300168: Fire Arrow I
+    21300170: Sheep - eye.R
+    21300172: Sheep - eye.L
+    21300174: Sheep - body
+    21300176: Sheep - head
+    21300178: Sheep - foot 1
+    21300180: Sheep - foot 2
+    21300182: Sheep - foot 3
+    21300184: Sheep - foot 4
+    21300186: Xoay 1
+    21300188: Xoay 2
+    21300190: Xoay Des
+    21300192: Coi Xoay Gio - Swing
+    21300194: Coi Xoay Gio - Body
+    21300196: Coi Xoay Gio - Body Upper
+    21300198: Coi Xoay Gio - Body Lower
+    21300200: Fire 2 Arrow
+    21300202: Ground Block
+    21300204: Cot ngang 2
+    21300206: Bird Body
+    21300208: Bird Wing R
+    21300210: Bird Wing L
+    21300212: Bow V
+    21300214: Playing_1
+    21300216: Dialog
+    21300218: Playing_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Girl 01 - Head 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 974
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01 - Head 2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 974
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01 - Head 3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 974
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01 - Head 4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 974
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01 - HandUper.R
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 948
+        width: 11
+        height: 25
+      alignment: 9
+      pivot: {x: .85317421, y: .91817385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01 - BodyUpper
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 918
+        width: 33
+        height: 45
+      alignment: 9
+      pivot: {x: .481818348, y: .664444983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01 - BodyLower
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 918
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: .497059107, y: .900000751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01 - Foot
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 915
+        width: 33
+        height: 56
+      alignment: 9
+      pivot: {x: .548485041, y: .9375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01 - HandUper.L
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 946
+        width: 11
+        height: 25
+      alignment: 9
+      pivot: {x: .16363664, y: .948000491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01 - HandLowe.R
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 911
+        width: 12
+        height: 36
+      alignment: 9
+      pivot: {x: .800000429, y: .958333313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01 - HandLowe.L
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 909
+        width: 11
+        height: 36
+      alignment: 9
+      pivot: {x: .200001106, y: .961112142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bow I
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 44
+        height: 134
+      alignment: 9
+      pivot: {x: .629999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bow II
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 32
+        height: 134
+      alignment: 9
+      pivot: {x: .871876717, y: .49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bow III
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 32
+        height: 134
+      alignment: 9
+      pivot: {x: .660000026, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bow IV
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 44
+        height: 134
+      alignment: 9
+      pivot: {x: .889999986, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Playing_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 86
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Playing_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 86
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Playing_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 102
+        width: 86
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow II
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 86
+        height: 10
+      alignment: 9
+      pivot: {x: .5, y: .546465278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rope
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1004
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health Bar FG
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1015
+        width: 59
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health Bar BG
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1006
+        width: 59
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 01
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 866
+        width: 42
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Playing_7
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 869
+        width: 44
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 868
+        width: 44
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 870
+        width: 42
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 868
+        width: 47
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 865
+        width: 45
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ring
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1014
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wing R
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 978
+        width: 38
+        height: 25
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wing L
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 950
+        width: 38
+        height: 25
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow's direction
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 167
+        height: 36
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - Head 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 859
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - Head 2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 859
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - Head 3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 859
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - Head 4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 859
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - HandUper.R
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 834
+        width: 10
+        height: 23
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - BodyUpper
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 806
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: .471599013, y: .756046653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - BodyLower
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 806
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: .510384083, y: .884863794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - Foot
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 797
+        width: 29
+        height: 58
+      alignment: 9
+      pivot: {x: .477801889, y: .921781361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - HandUper.L
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 835
+        width: 10
+        height: 22
+      alignment: 9
+      pivot: {x: .187272638, y: .889359891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - HandLowe.R
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 794
+        width: 12
+        height: 39
+      alignment: 9
+      pivot: {x: .700867176, y: .942938387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 02 - HandLowe.L
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 795
+        width: 13
+        height: 39
+      alignment: 9
+      pivot: {x: .125774682, y: .957383394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - Head 1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 743
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - Head 2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 743
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - Head 3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 743
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - Head 4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 743
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - HandUper.R
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 717
+        width: 10
+        height: 22
+      alignment: 9
+      pivot: {x: .798828781, y: .920426786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - BodyUpper
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 698
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: .478440017, y: .742948234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - BodyLower
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 689
+        width: 37
+        height: 50
+      alignment: 9
+      pivot: {x: .492307931, y: .889898658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - Foot
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 685
+        width: 34
+        height: 52
+      alignment: 9
+      pivot: {x: .512555957, y: .926896334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - HandUper.L
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 715
+        width: 10
+        height: 22
+      alignment: 9
+      pivot: {x: .243861392, y: .881619513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - HandLowe.R
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 679
+        width: 11
+        height: 36
+      alignment: 9
+      pivot: {x: .719915748, y: .962470174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 03 - HandLowe.L
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 676
+        width: 10
+        height: 34
+      alignment: 9
+      pivot: {x: .243861392, y: .943637609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - Head 1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 620
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - Head 2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 620
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - Head 3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 620
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - Head 4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 621
+        width: 30
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - HandUper.R
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 594
+        width: 11
+        height: 23
+      alignment: 9
+      pivot: {x: .710484564, y: .929512382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - BodyUpper
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 565
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: .517151117, y: .693841994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - BodyLower
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 561
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: .456587791, y: .926748216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - Foot
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 549
+        width: 36
+        height: 63
+      alignment: 9
+      pivot: {x: .512863398, y: .950817287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - HandUper.L
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 591
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: .205322266, y: .899921775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - HandLowe.R
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 552
+        width: 15
+        height: 37
+      alignment: 9
+      pivot: {x: .685226798, y: .958895326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 04 - HandLowe.L
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 549
+        width: 15
+        height: 39
+      alignment: 9
+      pivot: {x: .222159833, y: .939320087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - Head 1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 496
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - Head 2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 496
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - Head 3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 496
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - Head 4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 496
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - HandUper.R
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 469
+        width: 10
+        height: 25
+      alignment: 9
+      pivot: {x: .782657266, y: .938120127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - BodyUpper
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 448
+        width: 35
+        height: 44
+      alignment: 9
+      pivot: {x: .499999672, y: .813172102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - BodyLower
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 448
+        width: 31
+        height: 44
+      alignment: 9
+      pivot: {x: .488601685, y: .929607749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - Foot
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 433
+        width: 42
+        height: 59
+      alignment: 9
+      pivot: {x: .495793283, y: .940156043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - HandUper.L
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 466
+        width: 10
+        height: 23
+      alignment: 9
+      pivot: {x: .252671808, y: .891726315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - HandLowe.R
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 432
+        width: 12
+        height: 35
+      alignment: 9
+      pivot: {x: .72082597, y: .944176376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Girl 05 - HandLowe.L
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 427
+        width: 13
+        height: 37
+      alignment: 9
+      pivot: {x: .173853949, y: .939265907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cot doc
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 750
+        width: 16
+        height: 248
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cot ngang
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 985
+        width: 144
+        height: 13
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cot cheo
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 912
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cot nut
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 890
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cot rope
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 861
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 6
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fire Arrow I
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 86
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep - eye.R
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 70
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep - eye.L
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 69
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep - body
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 7
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep - head
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 30
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: .812000096, y: .281579375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep - foot 1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3
+        width: 10
+        height: 24
+      alignment: 9
+      pivot: {x: .454714954, y: .938088655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep - foot 2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4
+        width: 11
+        height: 24
+      alignment: 9
+      pivot: {x: .454545468, y: .941667378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep - foot 3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3
+        width: 11
+        height: 24
+      alignment: 9
+      pivot: {x: .5, y: .933334053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep - foot 4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3
+        width: 11
+        height: 24
+      alignment: 9
+      pivot: {x: .390910745, y: .950000703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Xoay 1
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Xoay 2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 4
+        width: 58
+        height: 59
+      alignment: 9
+      pivot: {x: .495498121, y: .537616074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Xoay Des
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 87
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coi Xoay Gio - Swing
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 100
+        width: 56
+        height: 277
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coi Xoay Gio - Body Upper
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 187
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coi Xoay Gio - Body Lower
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 99
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fire 2 Arrow
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 85
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ground Block
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 327
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cot ngang 2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1007
+        width: 167
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird Body
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 13
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird Wing R
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3
+        width: 16
+        height: 9
+      alignment: 9
+      pivot: {x: .831390381, y: .823076904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird Wing L
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4
+        width: 15
+        height: 8
+      alignment: 9
+      pivot: {x: .146521002, y: .756557345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bow V
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 97
+        height: 148
+      alignment: 9
+      pivot: {x: .469999999, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Playing_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 149
+        width: 114
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dialog
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 84
+        width: 137
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Playing_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
