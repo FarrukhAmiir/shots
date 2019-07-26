@@ -4,8 +4,14 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    
-    public GameObject[] Levels;
+    [System.Serializable]
+    public class Levels
+    {
+        public GameObject Level;
+        public int noOfEnimies;
+    }
+
+    public Levels[] level;
     // Start is called before the first frame update
     void Start()
     {

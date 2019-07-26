@@ -4,11 +4,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
     public GameObject Victory, Mainmenu, LevelMenu,GameFailed;
     public GameObject[] ballz;
+    public Text LevelNoText;
     // Start is called before the first frame update
     void Start()
     {
@@ -27,6 +29,7 @@ public class UIManager : MonoBehaviour
         {
             SceneManager.LoadScene(1);
             Player.counter = 0;
+            StopAllCoroutines();
         }
 
         else if (name == "Play")

@@ -14,7 +14,7 @@ public class LevelManager : MonoBehaviour
     void Start()
     {
         Manager = GameObject.Find("GameManager").GetComponent<GameManager>();
-        for(int i = 0;i<Manager.Levels.Length;i++)
+        for(int i = 0;i<Manager.level.Length;i++)
         {
             GameObject level= Instantiate(LevelButton, transform);
             level.name = i.ToString();

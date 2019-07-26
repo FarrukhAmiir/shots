@@ -7,11 +7,12 @@ public class DragObject : MonoBehaviour {
 	Vector3 screenPoint;
 	Vector3 offset;
 	Vector3 scanPos;
-
+    SlingShotManager sling;
 	Transform trans;
 
 	void Start()
 	{
+        sling = GameObject.Find("SlingShot").GetComponent<SlingShotManager>();
 		trans = this.transform;
 		scanPos = trans.position;
 
@@ -48,7 +49,12 @@ public class DragObject : MonoBehaviour {
 
 		float posX = Mathf.Clamp (trans.position.x,-1.4f,1.4f);
 		float posY = Mathf.Clamp (trans.position.y,-3f,-2.36f);
-
+        sling.SpeedIncrease = scanPos.y - posY ;
+        if(sling.SpeedIncrease <0)
+        {
+            sling.SpeedIncrease *= -1;
+        }
+      
 		trans.position = new Vector3 (posX,posY,curPosition.z);
 	}
 	void OnMouseUp()

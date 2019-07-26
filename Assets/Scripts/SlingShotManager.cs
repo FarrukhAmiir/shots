@@ -20,6 +20,9 @@ public class SlingShotManager : MonoBehaviour {
     UIManager ui;
     public static bool pull;
     GameManager Manager;
+    public float forceincrement;
+    [HideInInspector]
+    public float SpeedIncrease;
 	void Awake()
 	{
 		instance = this;
@@ -30,13 +33,17 @@ public class SlingShotManager : MonoBehaviour {
         LevelNumber = PlayerPrefs.GetInt("LevelNumber");
         Manager = GameObject.Find("GameManager").GetComponent<GameManager>();
         ui = GameObject.Find("Canvas").GetComponent<UIManager>();
+        ui.LevelNoText.text = "Level " + LevelNumber+1;
         lines [0].SetPosition (0, leftAnchor.position);
 		lines [1].SetPosition (0,rightAnchor.position);
 		setPath (true);
-        GameObject level=  Instantiate(Manager.Levels[LevelNumber]);
-        level.name = "Level" + LevelNumber;
-        totalEnimiesInLevel = GameObject.Find("Level" + LevelNumber).transform.childCount;
-	}
+        GameObject level=  Instantiate(Manager.level[LevelNumber].Level);
+        level.name = "Level" + (LevelNumber+1);
+        totalEnimiesInLevel =Manager.level[LevelNumber].noOfEnimies;
+        Debug.Log("enimies" + totalEnimiesInLevel);
+        
+       
+    }
 	
 	// Update is called once per frame
 	void Update ()
@@ -62,14 +69,20 @@ public class SlingShotManager : MonoBehaviour {
 	public float speed;
 	public void throwBall()
 	{
-		ObjectHolder.GetComponent<Collider> ().enabled = false;
+        speed = SpeedIncrease * forceincrement;
+        if(speed<10)
+        {
+            speed = 10;
+        }
+        Debug.Log("Speedddddd" + speed);
+        ObjectHolder.GetComponent<Collider> ().enabled = false;
 		GameObject clone = Instantiate (ball,ball.transform.position,Quaternion.identity)as GameObject;
 		clone.SetActive (true);
 		clone.GetComponent<Rigidbody> ().AddForce (aimer.up*speed,ForceMode.Impulse);
         NoOfBallz--;
         ui.ballz[NoOfBallz].SetActive(false);
         Invoke("checkballz", 1f);
-        Debug.Log(NoOfBallz);
+        StopAllCoroutines();
 	//	Destroy (clone,3f);
 	}
 

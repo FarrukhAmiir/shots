@@ -9,6 +9,8 @@ public class Enemy : MonoBehaviour
     SlingShotManager sling;
    public bool dead,moving,rotating;
     UIManager ui;
+    float speed;
+    bool hit = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,29 +26,53 @@ public class Enemy : MonoBehaviour
 
     void FixedUpdate()
     {
-        
-    }
-    void OnCollisionEnter(Collision collision )
-    {
-
-        if (collision.gameObject.tag == "Enemy" )
+        if(hit)
         {
-           // collision.gameObject.GetComponent<SphereCollider>().enabled = false;
-           if(moving)
+
+            gameObject.GetComponent<Rigidbody>().velocity = gameObject.GetComponent<Rigidbody>().velocity.normalized * speed ;
+        }
+    }
+    void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.tag == "Enemy")
+        {
+
+            speed = collision.relativeVelocity.magnitude * 0.5f;
+            Debug.Log(speed);
+            hit = true;
+            // collision.gameObject.GetComponent<SphereCollider>().enabled = false;
+            if (moving)
             {
 
                 collision.gameObject.GetComponent<ITweenMagic>().enabled = false;
                 collision.gameObject.GetComponent<iTween>().enabled = false;
             }
             collision.gameObject.GetComponent<Rigidbody>().useGravity = true;
-            collision.gameObject.transform.parent.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
-            Debug.Log("collidererererer");
+            // collision.gameObject.transform.parent.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
+            GameObject effect = Instantiate(Effect);
+            effect.transform.position = collision.gameObject.transform.position;
             Player.counter++;
-            if (Player.counter >= sling.totalEnimiesInLevel)
-            {
+            StartCoroutine(DeathofEnemy(collision.gameObject));
 
-                ui.Victory.SetActive(true);
-            }
         }
+        else if (collision.gameObject.tag == "Enemy")
+        {
+
+            speed = collision.relativeVelocity.magnitude * 0.5f;
+            Debug.Log(speed);
+        }
+    }
+
+    IEnumerator DeathofEnemy(GameObject obj)
+    {
+        yield return new WaitForSeconds(1f);
+        Destroy(obj);
+        Destroy(gameObject);
+        if (Player.counter >= sling.totalEnimiesInLevel)
+        {
+
+            ui.Victory.SetActive(true);
+        }
+
     }
 }
